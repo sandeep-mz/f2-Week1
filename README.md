@@ -2,6 +2,9 @@
 
 This repository contains JavaScript functions for manipulating an array of data objects representing individuals. These functions are designed to be executed via buttons in an HTML interface. Below, you'll find details about each function and how to use them:
 
+![Screenshot 2023-09-16 144438](https://github.com/sandeep-mz/f2-Week1/assets/108665091/8266a50b-9ad9-4335-b589-0f3a2382246e)
+
+
 ## Functions
 
 ### 1. Print Developers (`PrintDeveloper` function)
