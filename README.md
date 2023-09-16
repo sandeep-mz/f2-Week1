@@ -58,3 +58,12 @@ This function updates 'john's profession to 'manager' in the array.
 Feel free to explore the JavaScript code in the `script.js` file to understand how each function is implemented.
 
 Enjoy experimenting with these array manipulation functions!
+
+# Contact✔️🔴
+
+If you have any questions or need further information about the project, you can contact the project owner at - @initialsandeep09@gmail.com.
+
+
+GITHUB LINK https://github.com/sandeep-mz/f2-Week1
+
+DEPLOYED LINK https://sandeep-mz.github.io/f2-Week1/
